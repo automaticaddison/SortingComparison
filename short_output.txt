@@ -1,0 +1,96 @@
+SORTING RESULTS
+
+Author: Addison Sears-Collins
+----------------
+
+-----------------------
+Original Input
+-----------------------
+2
+1
+
+-----------------------
+Shellsort Knuth Sorted List
+-----------------------
+1
+2
+
+-----------------------
+Shellsort 2 Sorted List
+-----------------------
+1
+2
+
+-----------------------
+Shellsort 3 Sorted List
+-----------------------
+1
+2
+
+-----------------------
+Shellsort 4 Sorted List
+-----------------------
+1
+2
+
+-----------------------
+Shellsort 5 Sorted List
+-----------------------
+1
+2
+
+---------------
+Heapsorted List
+---------------
+1
+2
+
+------------------------------
+Straight Insertion Sorted List
+------------------------------
+1
+2
+
+----------------------------
+Simple Selection Sorted List
+----------------------------
+1
+2
+
+----------------
+Quicksorted List
+----------------
+1
+2
+
+------------------
+Bubble Sorted List
+------------------
+1
+2
+
+----------------------------------------
+TIME PERFORMANCE COMPARISON
+----------------------------------------
+Input: short_input.txt
+Output: short_output.txt
+
+Shellsort Knuth: 165 microseconds
+
+Shellsort 2: 181 microseconds
+
+Shellsort 3: 171 microseconds
+
+Shellsort 4: 752 microseconds
+
+Shellsort 5: 168 microseconds
+
+Heapsort: 22 microseconds
+
+Straight Insertion Sort: 11 microseconds
+
+Simple Selection Sort: 11 microseconds
+
+Quicksort: 28 microseconds
+
+Bubble Sort: 13 microseconds
